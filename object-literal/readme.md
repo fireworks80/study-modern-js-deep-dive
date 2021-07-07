@@ -12,7 +12,7 @@
 ## 생성방법
 
 - {}
-- Object.create()
+- Object.create() // Object.create(null)은 **proto** 가 없다.
 - class
 
 ## 프로퍼티
